@@ -1,0 +1,288 @@
+.pages{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Circular', 'Helvetica Neue', Arial, sans-serif;
+  }
+  
+  .poster{
+    width: 45%;
+    box-shadow: 0px 0px 8px 2px rgb(245, 245, 245);
+    margin-top: 20px;
+  }
+  
+  
+  .box-1{
+  background-color: white;
+  padding: 15px;
+  }
+  
+  
+  
+  .profile1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+  }
+  
+  .profile1-data{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .photo-profile1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .name1{
+    font-weight: 700;
+    color: rgb(0, 198, 247);
+  }
+  
+  .dots3{
+    width: 10px;
+    height: 10px;
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  .caption-photo{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  .detail-data{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .detail-data-name{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+  }
+  
+  .detail-data-name-etc{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .time1{
+    font-weight: 400;
+    margin-left: 5px;
+    color: #bcbcbc;
+    font-size: 13px;
+  }
+  
+  .post-time1{
+    font-size: 15px;
+    color: #bcbcbc;
+  }
+  
+  .caption-photo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+  }
+  
+  
+  .caption{
+    margin-bottom: 15px;
+  }
+  
+  
+  .photo{
+    margin: 15px 0px;
+    width: 100%;
+    height: auto;
+    object-fit: cover
+  }
+  
+  
+  
+  
+  .love-share{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+  }
+  
+  
+  .love{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .icon-love{
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-love-text{
+  margin-left: 10px;
+  }
+  
+  
+  
+  .share{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+  }
+  
+  .icon-share{
+    width: 18px;
+    height: 18px;
+  }
+  
+  .icon-share-text{
+    margin-left: 10px;
+  }
+  
+  
+  
+  .comment{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+  }
+  
+  .comment-t{
+    font-size: 15px;
+  }
+  
+  .icon-arrow{
+    width: 10px;
+    height: 10px;
+    margin-left: 20px;
+  }
+  
+  
+  
+  .box-2{
+    background-color: rgb(245, 245, 245);
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  .profile-dua{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .photo-profile2{
+    width: 40px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .profile2-komen{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .profile2-komen-nama{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+    margin-left: 15px;
+  }
+  
+  .photo2{
+  
+  }
+  
+  .name2{
+    font-weight: 700;
+  }
+  
+  .comment-time{
+  margin-left: 15px;
+  font-size: 15px;
+  color: #bcbcbc;
+  }
+  
+  .comment-text{
+  margin-left: 15px;
+  margin-top: 5px;
+  }
+  
+  
+  
+  .reply{
+   display: flex;
+   flex-direction: row;
+   margin-top: 15px;
+   margin-left: 15px;
+  }
+  
+  .icon-reply{
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+  }
+  
+  .icon-reply-text{
+    font-weight: 700;
+    color: rgb(0, 198, 247);
+  }
+  
+  
+  
+  .comment2{
+  display: flex;
+  flex-direction: row;
+  margin-top: 25px;
+  }
+  
+  .photo3{
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  }
+  
+  .instagram-comment {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  .engg-box{
+    margin-left: 15px;
+  }
+  
+  
+  .instagram-button {
+    background-color: #3897f0;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .instagram-button:hover {
+    background-color: #1e70b8;
+  }
+  
+  
+  
+  
+  
